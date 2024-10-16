@@ -18,5 +18,7 @@ I chose C# because it's great for object-oriented programming and reliable for b
 # Future Work
 
 -Input Validation: Enhance input handling to prevent errors, such as checking for non-integer values for IDs.
+
 -Search Functionality: Implement a feature to search for employees by name or position.
+
 -Data Persistence: Add functionality to save and load employee data from a file or database, ensuring data is retained between program runs.

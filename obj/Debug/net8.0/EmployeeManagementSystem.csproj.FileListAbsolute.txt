@@ -12,3 +12,4 @@ C:\Users\benso\OneDrive\Desktop\Hardrive Folder\CSE 310\Module 2\EmployeeManagem
 C:\Users\benso\OneDrive\Desktop\Hardrive Folder\CSE 310\Module 2\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.pdb
 C:\Users\benso\OneDrive\Desktop\Hardrive Folder\CSE 310\Module 2\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.genruntimeconfig.cache
 C:\Users\benso\OneDrive\Desktop\Hardrive Folder\CSE 310\Module 2\EmployeeManagementSystem\obj\Debug\net8.0\ref\EmployeeManagementSystem.dll
+C:\Users\benso\OneDrive\Desktop\Hardrive Folder\CSE 310\Module 2\EmployeeManagementSystem\obj\Debug\net8.0\EmployeeManagementSystem.sourcelink.json
